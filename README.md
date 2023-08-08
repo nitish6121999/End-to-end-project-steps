@@ -14,7 +14,7 @@
 
 
 
-## **Roadmap for any ML-DL Project **
+## **Roadmap for any ML-DL Project**
 
 ### 1. Introduction Github Repository Setup 
 ### 2. Project Template Creation
