@@ -12,6 +12,7 @@
 * Deployment Of ML Application in Azure Cloud using Github actions
 * Production Grade ML Projects Deployment Azure Web app MLOPS
 
+![](https://ml-ops.org/img/mlops-loop-en.jpg)
 
 
 ## **Roadmap for any ML-DL Project**
